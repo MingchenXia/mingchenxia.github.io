@@ -1,3 +1,9 @@
+---
+layout: default
+title: Seminar
+permalink: /seminar/
+---
+
 # USTC complex geometry seminar
 
 This is the homepage of a complex geometry seminar organized by [Mingchen Xia](readme.md) at USTC, Hefei. Unless otherwise specified, all talks take place in Room 1124, Material Science Research Building (Section C).
