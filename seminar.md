@@ -7,20 +7,6 @@ If you wish to visit USTC and give a talk, please contact Mingchen. Anyone who h
 ## Forthcoming talks
 
 
-
-
-Speaker: [Virgile Tapiero](https://vtapiero.pages.math.cnrs.fr), IMFP
-
-Title: Normal forms and Lyapunov exponents of endomorphisms of the complex projective plane
-
-Time: Nov. 13, 2025 (Thursday) 10:00~11:00
-
-> Abstract: Let f be an endomorphism of the complex projective plane P^2 of degree d>1. There exists a unique probability measure μ of maximal entropy (equal to log d^2) for f. It is ergodic and admits Lyapunov exponents L_1 ≥ L_2. A fundamental result due to J.-Y. Briend and J. Duval (1999) states that the Lyapunov exponents of μ are bounded below by a constant depending only on the degree d of f, more precisely, they are bounded below by (log d)/2. The case of equality L_1 = L_2 = (log d)/2 was characterized by several authors, who showed that this happens if and only if μ is absolutely continuous with respect to the Lebesgue measure.
->
-> μ is also a Monge-Ampère mass: μ = T ∧ T the autointersection of the Green current T of f. R. Dujardin proved (2012) that μ << Trace(T) implies L_2 = (log d)/2. He also addressed the question of the reverse property. In this talk, we will focus on the case L_1 > L_2 = (log d)/2. I will explain how to prove that L_2 = (log d)/2 implies μ << Trace(T), answering Dujardin’s question. The techniques involved are based on pluripotential theory, ergodic theory, and the use of normal forms for the dynamics.
-
----
-
 Speaker: [Genglong Lin](https://www.bimsa.cn/detail/GenglongLin.html), BIMSA
 
 Title: Degenerate Hessian type equations on compact Hermitian manifolds
@@ -52,6 +38,20 @@ Time: TBA
 > An asymptotically conical Calabi--Yau manifold is a Ricci-flat Kähler manifold whose shape, when zoomed out towards infinity, looks like a Calabi--Yau cone. A recent work of Conlon--Hein shows that an AC Calabi--Yau manifold is obtained either by algebraic deformations or crepant resolution in a reversible and exhaustive process. In terms of the metric on the cone, the behavior of the AC Calabi--Yau metric is said to be quasi-regular or irregular. Examples of the latter are notoriously rare in the literature: in fact the only such example before our work was built by Conlon--Hein using ad-hoc computations; but there had been no explicit way to obtain them, and an open question in their paper was whether there exist more metrics of the same kind. In my talk, I'll present an effective strategy to construct new irregular AC Calabi--Yau manifolds via Altmann's deformation theory of isolated toric Calabi--Yau cones. This is a joint work with Ronan Conlon (University of Texas, Dallas).
 
 ## Past talks
+
+Speaker: [Virgile Tapiero](https://vtapiero.pages.math.cnrs.fr), IMFP
+
+Title: Normal forms and Lyapunov exponents of endomorphisms of the complex projective plane
+
+Time: Nov. 13, 2025 (Thursday) 10:00~11:00
+
+> Abstract: Let f be an endomorphism of the complex projective plane P^2 of degree d>1. There exists a unique probability measure μ of maximal entropy (equal to log d^2) for f. It is ergodic and admits Lyapunov exponents L_1 ≥ L_2. A fundamental result due to J.-Y. Briend and J. Duval (1999) states that the Lyapunov exponents of μ are bounded below by a constant depending only on the degree d of f, more precisely, they are bounded below by (log d)/2. The case of equality L_1 = L_2 = (log d)/2 was characterized by several authors, who showed that this happens if and only if μ is absolutely continuous with respect to the Lebesgue measure.
+>
+> μ is also a Monge-Ampère mass: μ = T ∧ T the autointersection of the Green current T of f. R. Dujardin proved (2012) that μ << Trace(T) implies L_2 = (log d)/2. He also addressed the question of the reverse property. In this talk, we will focus on the case L_1 > L_2 = (log d)/2. I will explain how to prove that L_2 = (log d)/2 implies μ << Trace(T), answering Dujardin’s question. The techniques involved are based on pluripotential theory, ergodic theory, and the use of normal forms for the dynamics.
+
+![Tapiero251113](Seminar/Tapiero251113.jpg) 
+
+---
 
 Speaker: [Quang-Tuan Dang](https://quangtuandang.github.io/Webpage/), Tsinghua University
 
