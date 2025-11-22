@@ -1,4 +1,4 @@
-# 欢迎/歡迎/Welcome/Välkommen/いらっしゃいませ/~~Bienvenue~~
+# 欢迎/歡迎/Welcome/Välkommen/いらっしゃいませ
 
 ## About Me
 
@@ -8,14 +8,6 @@ I am organizing the [USTC complex geometry seminar](seminar.md).
 
 - In October 2022, I obtained my PhD degree at <a href="https://www.chalmers.se/sv/Sidor/default.aspx">Chalmers Tekniska Högskola</a> in <a href="https://www.campervansweden.com/blog/about-sweden/swiss-vs-swedish">Sweden</a> under the supervision of Robert Berman.
 - Afterwards, I was a <a href="https://kaw.wallenberg.org/en/mingchen-xia">Wallenberg postdoc</a> from December 2022 to May 2025.
-  <details>
-    <summary>Details</summary>
-    <ul>
-      <li>The first year was spent at <a href="https://www.imj-prg.fr">IMJ-PRG</a> peace and calm, mentored by <a href="http://sebastien.boucksom.perso.math.cnrs.fr">Sébastien Boucksom</a>. This year, I applied for the <a href="https://carrieres.cnrs.fr/concours-externes-des-chercheurs-h-f/">CNRS position</a> without getting an interview.</li>
-      <li>The second year was characterised by the <em>de facto</em> homeless status and endless conflicts with the french government. This year, I applied for the CNRS position again without getting an interview and decided to leave France forever.</li>
-      <li>From December 2024 to May 2025, I was at Chalmers Tekniska Högskola again.</li>
-    </ul>
-  </details>
 
 Email: <xiamingchen2008@gmail.com> 
 
@@ -23,9 +15,6 @@ Accessing Gmail in China requires some magics, which may fail from time to time.
 
 > Good to know before contacting me: 1. À quelques exceptions près, je refuse de contribuer aux revues françaises. 2. I stopped working on K-stability since 2021. 3. My given name is Mingchen instead of Xia, Xiam, Mincheng, Minchen or Mingcheng. And I am male instead of female or whatever. 4. Preferred languages: Chinese > English or French. Ich versuche, mein Deutsch zu verbessern. Du kannst mir gern auf Hochdeutsch schreiben, wenn es dich nicht stört, Antworten auf holprigem Deutsch zu bekommen.
 
-![Missing France](Pictures/Missing_France2.png) 
-
-Adjö Sverige! Something is wrong? Read the last page of [my slides](Beamers/TBD.pdf).
 
 ## Some Problems
 
@@ -110,16 +99,6 @@ This is a collection of problems arising from my own research that may be of int
 - [Chern--Weil formulae of singular Hermitian vector bundles](Beamers/CWF.pdf) Aarhus, 05/20/2022.
 
 - [Les singularités $\mathcal{I}$-bonnes --- L'intersection entre la théorie analytique et la théorie algébrique](Beamers/IBS.pdf) IMJ-PRG, 01/03/2023.
-
- <div id="current-date" style="font-size: 1.0em;"></div>
-
-<script>
-  const now = new Date();
-  const options = { year: 'numeric', month: 'long', day: 'numeric' };
-  const formatted = now.toLocaleDateString('en-US', options);
-  document.getElementById('current-date').textContent = 
-    `I have not received the reimbursement for the lunch before the talk until ${formatted}. Vive la France!`;
-</script>
 
 - [A transcendental approach to non-Archimedean metrics](Beamers/TAnA.pdf) Göteborg, 05/04/2023.
 
