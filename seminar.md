@@ -17,7 +17,7 @@ Speaker: [Genglong Lin](https://www.bimsa.cn/detail/GenglongLin.html), BIMSA
 
 Title: Degenerate Hessian type equations on compact Hermitian manifolds
 
-Time: Nov. 28, 2025 (Friday) 10:00~11:00
+Time: Nov. 28, 2025 (Friday) 10:45~11:45
 
 > Abstract: In this talk we will discuss my recent progress on a class of degenerate Monge--Ampère equations in a nef class on compact Hermitian manifolds. The method combines with a series work of Darvas--Di Nezza--Lu.  Secondly, we will talk about the finite energy range of Hessian equations on compact Kähler manifold. The proof is different from Darvas--Di Nezza--Lu’s. Partially based on joint work with Yinji Li and Xiangyu Zhou.
 
