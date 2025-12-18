@@ -13,15 +13,16 @@ If you wish to visit USTC and give a talk, please contact Mingchen. Anyone who h
 ## Forthcoming talks
 
 
-Speaker: [Genglong Lin](https://www.bimsa.cn/detail/GenglongLin.html), BIMSA
 
-Title: Degenerate Hessian type equations on compact Hermitian manifolds
+Speaker: [Trung Nghiem](https://sites.google.com/view/trung-nghiem), Université Claude Bernard Lyon 1
 
-Time: Nov. 28, 2025 (Friday) 10:45~11:45
+Title: An effective construction of asymptotically conical Calabi--Yau metrics
 
-> Abstract: In this talk we will discuss my recent progress on a class of degenerate Monge--Ampère equations in a nef class on compact Hermitian manifolds. The method combines with a series work of Darvas--Di Nezza--Lu.  Secondly, we will talk about the finite energy range of Hessian equations on compact Kähler manifold. The proof is different from Darvas--Di Nezza--Lu’s. Partially based on joint work with Yinji Li and Xiangyu Zhou.
+Time: TBA
 
----
+> An asymptotically conical Calabi--Yau manifold is a Ricci-flat Kähler manifold whose shape, when zoomed out towards infinity, looks like a Calabi--Yau cone. A recent work of Conlon--Hein shows that an AC Calabi--Yau manifold is obtained either by algebraic deformations or crepant resolution in a reversible and exhaustive process. In terms of the metric on the cone, the behavior of the AC Calabi--Yau metric is said to be quasi-regular or irregular. Examples of the latter are notoriously rare in the literature: in fact the only such example before our work was built by Conlon--Hein using ad-hoc computations; but there had been no explicit way to obtain them, and an open question in their paper was whether there exist more metrics of the same kind. In my talk, I'll present an effective strategy to construct new irregular AC Calabi--Yau manifolds via Altmann's deformation theory of isolated toric Calabi--Yau cones. This is a joint work with Ronan Conlon (University of Texas, Dallas).
+
+## Past talks
 
 Speaker: [Ying Wang](https://ywangx.github.io/home/), University of Michigan
 
@@ -33,17 +34,21 @@ Time: Dec. 18, 2025 (Thursday) 10:00~11:00
 >
 > We also show the suitably rescaled limits of the complex potentials coincide with their non-Archimedean counterparts in some situations, strengthening their connections.
 
+![Wang251218](Seminar/Wang251218.jpg)
+
 ---
 
-Speaker: [Trung Nghiem](https://sites.google.com/view/trung-nghiem), Université Claude Bernard Lyon 1
+Speaker: [Genglong Lin](https://www.bimsa.cn/detail/GenglongLin.html), BIMSA
 
-Title: An effective construction of asymptotically conical Calabi--Yau metrics
+Title: Degenerate Hessian type equations on compact Hermitian manifolds
 
-Time: TBA
+Time: Nov. 28, 2025 (Friday) 10:45~11:45
 
-> An asymptotically conical Calabi--Yau manifold is a Ricci-flat Kähler manifold whose shape, when zoomed out towards infinity, looks like a Calabi--Yau cone. A recent work of Conlon--Hein shows that an AC Calabi--Yau manifold is obtained either by algebraic deformations or crepant resolution in a reversible and exhaustive process. In terms of the metric on the cone, the behavior of the AC Calabi--Yau metric is said to be quasi-regular or irregular. Examples of the latter are notoriously rare in the literature: in fact the only such example before our work was built by Conlon--Hein using ad-hoc computations; but there had been no explicit way to obtain them, and an open question in their paper was whether there exist more metrics of the same kind. In my talk, I'll present an effective strategy to construct new irregular AC Calabi--Yau manifolds via Altmann's deformation theory of isolated toric Calabi--Yau cones. This is a joint work with Ronan Conlon (University of Texas, Dallas).
+> Abstract: In this talk we will discuss my recent progress on a class of degenerate Monge--Ampère equations in a nef class on compact Hermitian manifolds. The method combines with a series work of Darvas--Di Nezza--Lu.  Secondly, we will talk about the finite energy range of Hessian equations on compact Kähler manifold. The proof is different from Darvas--Di Nezza--Lu’s. Partially based on joint work with Yinji Li and Xiangyu Zhou.
 
-## Past talks
+![Lin251128](Seminar/Lin251128.jpg)
+
+---
 
 Speaker: [Virgile Tapiero](https://vtapiero.pages.math.cnrs.fr), IMFP
 
