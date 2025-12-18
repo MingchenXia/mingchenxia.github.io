@@ -13,7 +13,6 @@ If you wish to visit USTC and give a talk, please contact Mingchen. Anyone who h
 ## Forthcoming talks
 
 
-
 Speaker: [Trung Nghiem](https://sites.google.com/view/trung-nghiem), Université Claude Bernard Lyon 1
 
 Title: An effective construction of asymptotically conical Calabi--Yau metrics
@@ -21,6 +20,17 @@ Title: An effective construction of asymptotically conical Calabi--Yau metrics
 Time: TBA
 
 > An asymptotically conical Calabi--Yau manifold is a Ricci-flat Kähler manifold whose shape, when zoomed out towards infinity, looks like a Calabi--Yau cone. A recent work of Conlon--Hein shows that an AC Calabi--Yau manifold is obtained either by algebraic deformations or crepant resolution in a reversible and exhaustive process. In terms of the metric on the cone, the behavior of the AC Calabi--Yau metric is said to be quasi-regular or irregular. Examples of the latter are notoriously rare in the literature: in fact the only such example before our work was built by Conlon--Hein using ad-hoc computations; but there had been no explicit way to obtain them, and an open question in their paper was whether there exist more metrics of the same kind. In my talk, I'll present an effective strategy to construct new irregular AC Calabi--Yau manifolds via Altmann's deformation theory of isolated toric Calabi--Yau cones. This is a joint work with Ronan Conlon (University of Texas, Dallas).
+
+
+---
+
+Speaker: [Pietro Mesquita-Piccione](https://pietropic.github.io), University of Gothenburg
+
+Title: A non-Archimedean approach to the Yau-Tian-Donaldson conjecture
+
+Time: TBA
+
+> TBA
 
 ## Past talks
 
