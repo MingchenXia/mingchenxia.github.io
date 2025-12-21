@@ -124,7 +124,11 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - [Transcendental b-divisors](Papers/TB.pdf)
 
-> In this paper, I study the theory of transcendental b-divisors. This paper itself is complete. I am working on a subsequent project.
+> In this paper, I studied the theory of transcendental b-divisors. This paper itself is complete. I am working on a subsequent project. Updated in December 2025, references updated.
+
+- [Transcendental b-divisors II.](Papers/TB2.pdf)
+
+> In this paper, I proved a quantitative version of the monotonicity theorem and proved a relation between the loss of mass and the Lelong numbers.
 
 ### K-stability
 
