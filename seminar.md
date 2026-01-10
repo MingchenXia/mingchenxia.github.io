@@ -12,6 +12,10 @@ If you wish to visit USTC and give a talk, please contact Mingchen. Anyone who h
 
 ## Forthcoming talks
 
+Enjoy the winter break!
+
+## Past talks
+
 
 Speaker: [Trung Nghiem](https://sites.google.com/view/trung-nghiem), Université Claude Bernard Lyon 1
 
@@ -21,6 +25,7 @@ Time: Jan. 9, 2026 (Friday) 9:30~10:20
 
 > An asymptotically conical Calabi--Yau manifold is a Ricci-flat Kähler manifold whose shape, when zoomed out towards infinity, looks like a Calabi--Yau cone. A recent work of Conlon--Hein shows that an AC Calabi--Yau manifold is obtained either by algebraic deformations or crepant resolution in a reversible and exhaustive process. In terms of the metric on the cone, the behavior of the AC Calabi--Yau metric is said to be quasi-regular or irregular. Examples of the latter are notoriously rare in the literature: in fact the only such example before our work was built by Conlon--Hein using ad-hoc computations; but there had been no explicit way to obtain them, and an open question in their paper was whether there exist more metrics of the same kind. In my talk, I'll present an effective strategy to construct new irregular AC Calabi--Yau manifolds via Altmann's deformation theory of isolated toric Calabi--Yau cones. This is a joint work with Ronan Conlon (University of Texas, Dallas).
 
+![Nghiem260109](Seminar/Nghiem260109.jpg)
 
 ---
 
@@ -32,8 +37,7 @@ Time: Jan. 9, 2026 (Friday) 10:30~11:20
 
 > In Kähler Geometry, the Yau–Tian–Donaldson conjecture relates the differential geometry of compact Kähler manifold with an algebro-geometric notion called K-stability. I will start with a brief overview of the topic, and then I will discuss a possible non-Archimedean approach to solve this conjecture, generalizing a result of Chi Li to the transcendental setting.
 
-
-## Past talks
+![Mesquita-Piccione260109](Seminar/Mesquita-Piccione260109.jpg)
 
 Speaker: [Ying Wang](https://ywangx.github.io/home/), University of Michigan
 
