@@ -13,7 +13,7 @@ Email: <xiamingchen2008@gmail.com>
 
 Accessing Gmail in China requires some magics, which may fail from time to time. I apologise for possibly late replies.
 
-> Good to know before contacting me: 1. À quelques exceptions près, je refuse de contribuer aux revues françaises. 2. I stopped working on K-stability since 2021. 3. My given name is Mingchen instead of Xia, Xiam, Mincheng, Minchen or Mingcheng. And I am male instead of female or whatever. 4. Preferred languages: Chinese > English or French. Ich versuche, mein Deutsch zu verbessern. Du kannst mir gern auf Hochdeutsch schreiben, wenn es dich nicht stört, Antworten auf holprigem Deutsch zu bekommen.
+> Good to know before contacting me: 1. À quelques exceptions près, je refuse de contribuer aux revues françaises. 2. I stopped working on K-stability since 2021. 3. My given name is Mingchen instead of Xia, Xiam, Mincheng, Minchen or Mingcheng. And I am male. 4. Preferred languages: Chinese > English or French. Ich versuche, mein Deutsch zu verbessern. Du kannst mir gern auf Hochdeutsch schreiben, wenn es dich nicht stört, Antworten auf holprigem Deutsch zu bekommen.
 
 
 ## Some Problems
