@@ -62,10 +62,6 @@ This is a collection of problems arising from my own research that may be of int
 
 > One of my unfinished projects. It contains a number of conjectures of interest.
 
-- [Note on $L^2$-methods in global pluripotential theory](Notes/MIS.pdf)
-
-> My personal notes when learning the $L^2$ methods, I plan to include more details in the future. This note contains an example of a reverse Bertini theorem, which seems to be new.
-
 - [Note on relative normalisations](Notes/RN.pdf)
 
 > I collect a few well-known results about relative normalisations.
