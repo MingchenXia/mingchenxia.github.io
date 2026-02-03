@@ -156,7 +156,7 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - Partial Okounkov bodies and Duistermaat--Heckman measures of non-Archimedean metrics. [arXiv:2112.04290](https://arxiv.org/abs/2112.04290)
 
-> The proof of the Hausdorff convergence property in this paper is quite messy. My [book](Lectures/SGPT.pdf) contains a more readable proof.
+> The proof of the Hausdorff convergence property in this paper is quite messy. My [book](Lectures/SGPT2.pdf) contains a more readable proof.
 
 - Non-pluripolar products on vector bundles and Chern--Weil formulae, ***Mathematische Annalen***, (2024). [arXiv:2210.15342](https://arxiv.org/abs/2210.15342) [Journal link](https://link.springer.com/article/10.1007/s00208-024-02838-4)
 
