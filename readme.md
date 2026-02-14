@@ -96,6 +96,8 @@ This is a collection of problems arising from my own research that may be of int
 
 - [Les singularités $\mathcal{I}$-bonnes --- L'intersection entre la théorie analytique et la théorie algébrique](Beamers/IBS.pdf) IMJ-PRG, 01/03/2023.
 
+> En attendant le remboursement du repa de 7 euros jusqu'à aujourd'hui.
+
 - [A transcendental approach to non-Archimedean metrics](Beamers/TAnA.pdf) Göteborg, 05/04/2023.
 
 - [Transcendental Okounkov bodies and the trace operator of currents](Beamers/TOB.pdf) Toulouse, 10/05/2023.
