@@ -7,7 +7,7 @@ I am a “Professor by Special Appointment” at the <a href="https://en.igp.ust
 I am organizing the [USTC complex geometry seminar](seminar.md).
 
 - In October 2022, I obtained my PhD degree at <a href="https://www.chalmers.se/sv/Sidor/default.aspx">Chalmers Tekniska Högskola</a> in <a href="https://www.campervansweden.com/blog/about-sweden/swiss-vs-swedish">Sweden</a> under the supervision of Robert Berman.
-- Afterwards, I was a <a href="https://kaw.wallenberg.org/en/mingchen-xia">Wallenberg postdoc</a> from December 2022 to May 2025.
+- Afterwards, I was a <a href="https://kaw.wallenberg.org/en/mingchen-xia">Wallenberg postdoc</a> from December 2022 to May 2025. In 2023 and 2024 I applied for the CNRS position twice without getting a single interview.
 
 Email: <xiamingchen2008@gmail.com> 
 
