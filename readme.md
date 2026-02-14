@@ -50,37 +50,6 @@ This is a collection of problems arising from my own research that may be of int
 
 > Lecture notes for my course at USTC in the spring of 2024.
 
-## Other notes
-
-- [LaTeX tips for working mathematicians](Notes/LaTeX_tips.pdf)
-
-- [Relative pluripotential theory](Notes/RPT.pdf) (Chapter I to Chapter III)
-
-> Just a preliminary version with potentially many mistakes. I'm slowly adding new materials.
-
-- [Radial Calabi flow](Notes/RCF.pdf)  
-
-> One of my unfinished projects. It contains a number of conjectures of interest.
-
-- [Note on relative normalisations](Notes/RN.pdf)
-
-> I collect a few well-known results about relative normalisations.
-
-- Notes on the toroidal compactifications of Shimura varieties: [I](Notes/SV1.pdf), [II](Notes/SV2.pdf), [III](Notes/SV3.pdf), [X](Notes/SV10.pdf), [XIII](Notes/SV13.pdf).
-
-- Notes on Hodge theory: [Carlson's correspondence](Notes/Hodge1.pdf).
-
-- [Operations on transcendental non-Archimedean metrics](https://bookstore.ams.org/view?ProductCode=CONM/810). [arXiv:2312.17150](https://arxiv.org/abs/2312.17150).
-
-> This note is a trivial continuation of my joint paper with Darvas and Zhang. The only notable result is Theorem 4.21. <span style="color:red"> The editors put an earlier version in the final book by mistake. Please read the arXiv version instead. </span>
-
-- [Non-pluripolar currents are not necessarily I-good](Notes/IGE.pdf)
-
-> I construct a non-pluripolar qpsh function with small unbounded locus which is not I-good.
-
-- Notes on Ducros' book "La structure des courbes analytiques" [Chapter 3](Notes/Duc3.pdf), [Chapter 4](Notes/Duc4.pdf)
-
-> My notes while learning Ducros' book.
 
 ## Beamers
 
@@ -181,6 +150,39 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 - A transcendental approach to non-Archimedean metrics of pseudoeffective classes, (joint with Tamás Darvas and Kewei Zhang). [arXiv:2302.02541](https://arxiv.org/abs/2302.02541)
 
 > The theory of non-Archimedean psh functions we developed in this paper trivally satisfies Boucksom--Jonsson's envelope conjecture (even on a general unibranch complex space), see my note [Operations on transcendental non-Archimedean metrics](Notes/OTNA.pdf).
+
+
+## Some notes
+
+- [LaTeX tips for working mathematicians](Notes/LaTeX_tips.pdf)
+
+- [Relative pluripotential theory](Notes/RPT.pdf) (Chapter I to Chapter III)
+
+> Just a preliminary version with potentially many mistakes. I'm slowly adding new materials.
+
+- [Radial Calabi flow](Notes/RCF.pdf)  
+
+> One of my unfinished projects. It contains a number of conjectures of interest.
+
+- [Note on relative normalisations](Notes/RN.pdf)
+
+> I collect a few well-known results about relative normalisations.
+
+- Notes on the toroidal compactifications of Shimura varieties: [I](Notes/SV1.pdf), [II](Notes/SV2.pdf), [III](Notes/SV3.pdf), [X](Notes/SV10.pdf), [XIII](Notes/SV13.pdf).
+
+- Notes on Hodge theory: [Carlson's correspondence](Notes/Hodge1.pdf).
+
+- [Operations on transcendental non-Archimedean metrics](https://bookstore.ams.org/view?ProductCode=CONM/810). [arXiv:2312.17150](https://arxiv.org/abs/2312.17150).
+
+> This note is a trivial continuation of my joint paper with Darvas and Zhang. The only notable result is Theorem 4.21. <span style="color:red"> The editors put an earlier version in the final book by mistake. Please read the arXiv version instead. </span>
+
+- [Non-pluripolar currents are not necessarily I-good](Notes/IGE.pdf)
+
+> I construct a non-pluripolar qpsh function with small unbounded locus which is not I-good.
+
+- Notes on Ducros' book "La structure des courbes analytiques" [Chapter 3](Notes/Duc3.pdf), [Chapter 4](Notes/Duc4.pdf)
+
+> My notes while learning Ducros' book.
 
 ## My favourite links
 
