@@ -89,7 +89,7 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - [Transcendental b-divisors](Papers/TB.pdf)
 
-> In this paper, I studied the theory of transcendental b-divisors. This paper itself is complete. I am working on a subsequent project. Updated in December 2025, references updated.
+> In this paper, I studied the theory of transcendental b-divisors. Updated in December 2025, references updated.
 
 - [Transcendental b-divisors II](Papers/TB2.pdf)
 
