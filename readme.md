@@ -77,6 +77,8 @@ This is a collection of problems arising from my own research that may be of int
 
 - [Transcendental b-divisors](Beamers/TBD.pdf) Göteborg, 05/28/2025.
 
+- [Monotonicity of Monge--Ampère products](Beamers/TBD2.pdf) Göteborg, 02/27/2026.
+
 
 
 ## Research
