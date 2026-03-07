@@ -94,7 +94,7 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - [Transcendental b-divisors II](Papers/TB2.pdf)
 
-> In this paper, I proved a quantitative version of the monotonicity theorem and proved a relation between the loss of mass and the Lelong numbers. The main result Theorem B can be seen as a version of the BDPP conjecture. The natural question is: How to generalize Theorem B to variations in the transcendental directions?
+> Updated on Mar 7, 2026. 
 
 ### K-stability
 
