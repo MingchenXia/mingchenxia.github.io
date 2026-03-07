@@ -12,7 +12,19 @@ If you wish to visit USTC and give a talk, please contact Mingchen. Anyone who h
 
 ## Forthcoming talks
 
-Enjoy the winter break!
+Speaker: [Ludvig Svensson](https://www.chalmers.se/en/persons/ludsven/), Chalmers Tekniska Högskola
+
+Title: Gibbs polystability of Fano manifolds
+
+Time: Mar. 19, 2026 (Thursday) 14:30~15:30, at [USTC Shanghai institute for advanced studies](https://vtmaths.github.io/imfp-igp-seminar/upcoming.html).
+
+> I will talk about joint work with R. Andreasson and R. J. Berman on the extension of the probabilisitc framework for constructing Kähler--Einstein metrics, involving random point processes, due to Berman, to the case of (log) Fano manifolds with non-discrete automorphism group.
+>
+> I will begin by giving an overview of the probabilistic approach. I will discuss the case of canonically polarized manifolds which has been settled, and go on to talk about Fano manifolds with discrete automorphism group, where the unique existence of a Kähler--Einstein metric is conjecturally equivalent to the (algebraic) notion of Gibbs stability.
+>
+> In a recent paper, we introduce the notion of Gibbs polystability, and conjecture that it is equivalent to the existence of a Kähler--Einstein metric on a general Fano manifold. Furthermore, we conjecture that the unique such metric with vanishing moment emerges in the large N-limit when sampling N points on X. This moment condition is defined with respect to a moment map induced by the action of a fixed maximal compact subgroup of the autromorphism group. This and other conjectures follow from an overarching conjectural large deviation principle for the large N-limit. 
+>
+> I will discuss the one-dimensional case, where we are able to prove many of the conjectures. Lastly, if time permits, I will comment on some applications of our results for log Fano curves.
 
 ## Past talks
 
