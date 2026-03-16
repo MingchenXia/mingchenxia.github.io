@@ -26,6 +26,17 @@ Time: Mar. 19, 2026 (Thursday) 14:30~15:30, at [USTC Shanghai institute for adva
 >
 > I will discuss the one-dimensional case, where we are able to prove many of the conjectures. Lastly, if time permits, I will comment on some applications of our results for log Fano curves.
 
+
+---
+
+Speaker: [Xu Wang](https://www.ntnu.edu/employees/xu.wang), Norwegian University of Science and Technology (NTNU)
+
+Title: Ross-Witt Nyström correspondence and Ohsawa-Takegoshi extension
+
+Time: Apr. 16, 2026 (Thursday) 14:30~15:30, at [USTC Shanghai institute for advanced studies](https://vtmaths.github.io/imfp-igp-seminar/upcoming.html).
+
+> We obtain a general Ohsawa-Takegoshi extension theorem by using the Ross-Witt Nyström correspondence picture and Berndtsson's theorem in \cite{Bern20}. In the test configuration (C∗-degeneration) case, our approach gives a quick proof of the Ohsawa-Takegoshi extension theorem without taking limit or using singular weight, which is very different from the Ohsawa-Chen-Blocki-Guan-Zhou approach and the Berndtsson-Lempert approach. Another advantage of our approach is that it fits better to the sharp estimate for the weighted Bergman kernel on compact manifold. Applications include a sharp lower bound of the Bergman kernel for compact Riemann surfaces and a non-vanishing theorem in terms of (weighted) Okounkov bodies.
+
 ## Past talks
 
 
