@@ -18,7 +18,7 @@ Title: Gibbs polystability of Fano manifolds
 
 Time: Mar. 19, 2026 (Thursday) 14:30~15:30, at [USTC Shanghai institute for advanced studies](https://vtmaths.github.io/imfp-igp-seminar/upcoming.html).
 
-> I will talk about joint work with R. Andreasson and R. J. Berman on the extension of the probabilisitc framework for constructing Kähler--Einstein metrics, involving random point processes, due to Berman, to the case of (log) Fano manifolds with non-discrete automorphism group.
+> Abstract: I will talk about joint work with R. Andreasson and R. J. Berman on the extension of the probabilisitc framework for constructing Kähler--Einstein metrics, involving random point processes, due to Berman, to the case of (log) Fano manifolds with non-discrete automorphism group.
 >
 > I will begin by giving an overview of the probabilistic approach. I will discuss the case of canonically polarized manifolds which has been settled, and go on to talk about Fano manifolds with discrete automorphism group, where the unique existence of a Kähler--Einstein metric is conjecturally equivalent to the (algebraic) notion of Gibbs stability.
 >
@@ -35,7 +35,7 @@ Title: Ross-Witt Nyström correspondence and Ohsawa-Takegoshi extension
 
 Time: Apr. 16, 2026 (Thursday) 14:30~15:30, at [USTC Shanghai institute for advanced studies](https://vtmaths.github.io/imfp-igp-seminar/upcoming.html).
 
-> We obtain a general Ohsawa-Takegoshi extension theorem by using the Ross-Witt Nyström correspondence picture and Berndtsson's theorem in \cite{Bern20}. In the test configuration (C∗-degeneration) case, our approach gives a quick proof of the Ohsawa-Takegoshi extension theorem without taking limit or using singular weight, which is very different from the Ohsawa-Chen-Blocki-Guan-Zhou approach and the Berndtsson-Lempert approach. Another advantage of our approach is that it fits better to the sharp estimate for the weighted Bergman kernel on compact manifold. Applications include a sharp lower bound of the Bergman kernel for compact Riemann surfaces and a non-vanishing theorem in terms of (weighted) Okounkov bodies.
+> Abstract: We obtain a general Ohsawa-Takegoshi extension theorem by using the Ross-Witt Nyström correspondence picture and Berndtsson's theorem in \cite{Bern20}. In the test configuration (C∗-degeneration) case, our approach gives a quick proof of the Ohsawa-Takegoshi extension theorem without taking limit or using singular weight, which is very different from the Ohsawa-Chen-Blocki-Guan-Zhou approach and the Berndtsson-Lempert approach. Another advantage of our approach is that it fits better to the sharp estimate for the weighted Bergman kernel on compact manifold. Applications include a sharp lower bound of the Bergman kernel for compact Riemann surfaces and a non-vanishing theorem in terms of (weighted) Okounkov bodies.
 
 ## Past talks
 
@@ -46,7 +46,7 @@ Title: An effective construction of asymptotically conical Calabi--Yau metrics
 
 Time: Jan. 9, 2026 (Friday) 9:30~10:20
 
-> An asymptotically conical Calabi--Yau manifold is a Ricci-flat Kähler manifold whose shape, when zoomed out towards infinity, looks like a Calabi--Yau cone. A recent work of Conlon--Hein shows that an AC Calabi--Yau manifold is obtained either by algebraic deformations or crepant resolution in a reversible and exhaustive process. In terms of the metric on the cone, the behavior of the AC Calabi--Yau metric is said to be quasi-regular or irregular. Examples of the latter are notoriously rare in the literature: in fact the only such example before our work was built by Conlon--Hein using ad-hoc computations; but there had been no explicit way to obtain them, and an open question in their paper was whether there exist more metrics of the same kind. In my talk, I'll present an effective strategy to construct new irregular AC Calabi--Yau manifolds via Altmann's deformation theory of isolated toric Calabi--Yau cones. This is a joint work with Ronan Conlon (University of Texas, Dallas).
+> Abstract: An asymptotically conical Calabi--Yau manifold is a Ricci-flat Kähler manifold whose shape, when zoomed out towards infinity, looks like a Calabi--Yau cone. A recent work of Conlon--Hein shows that an AC Calabi--Yau manifold is obtained either by algebraic deformations or crepant resolution in a reversible and exhaustive process. In terms of the metric on the cone, the behavior of the AC Calabi--Yau metric is said to be quasi-regular or irregular. Examples of the latter are notoriously rare in the literature: in fact the only such example before our work was built by Conlon--Hein using ad-hoc computations; but there had been no explicit way to obtain them, and an open question in their paper was whether there exist more metrics of the same kind. In my talk, I'll present an effective strategy to construct new irregular AC Calabi--Yau manifolds via Altmann's deformation theory of isolated toric Calabi--Yau cones. This is a joint work with Ronan Conlon (University of Texas, Dallas).
 
 ![Nghiem260109](Seminar/Nghiem260109.jpg)
 
@@ -58,7 +58,7 @@ Title: A non-Archimedean approach to the Yau-Tian-Donaldson conjecture
 
 Time: Jan. 9, 2026 (Friday) 10:30~11:20
 
-> In Kähler Geometry, the Yau–Tian–Donaldson conjecture relates the differential geometry of compact Kähler manifold with an algebro-geometric notion called K-stability. I will start with a brief overview of the topic, and then I will discuss a possible non-Archimedean approach to solve this conjecture, generalizing a result of Chi Li to the transcendental setting.
+> Abstract: In Kähler Geometry, the Yau–Tian–Donaldson conjecture relates the differential geometry of compact Kähler manifold with an algebro-geometric notion called K-stability. I will start with a brief overview of the topic, and then I will discuss a possible non-Archimedean approach to solve this conjecture, generalizing a result of Chi Li to the transcendental setting.
 
 ![Mesquita-Piccione260109](Seminar/Mesquita-Piccione260109.jpg)
 
@@ -68,7 +68,7 @@ Title: Non-Archimedean Calabi--Yau potentials on certain affine varieties
 
 Time: Dec. 18, 2025 (Thursday) 10:00~11:00
 
-> We solve a non-Archimedean Monge-Ampère equation on the Berkovich analytification of a complex log Calabi-Yau pair whose dual complex is a standard simplex, answering a question of Collins-Li and offering a non-Archimedean analog of Ricci-flat metric potentials on complex affine varieties. This work builds on the solution to a complex Monge--Ampère equation obtained by Collins--Li and Collins--Tong--Yau.
+> Abstract: We solve a non-Archimedean Monge-Ampère equation on the Berkovich analytification of a complex log Calabi-Yau pair whose dual complex is a standard simplex, answering a question of Collins-Li and offering a non-Archimedean analog of Ricci-flat metric potentials on complex affine varieties. This work builds on the solution to a complex Monge--Ampère equation obtained by Collins--Li and Collins--Tong--Yau.
 >
 > We also show the suitably rescaled limits of the complex potentials coincide with their non-Archimedean counterparts in some situations, strengthening their connections.
 
