@@ -12,6 +12,7 @@ Email: <xiamingchen2008@gmail.com>
 
 > Good to know before contacting me: 1. À quelques exceptions près, je refuse de contribuer aux revues françaises. 2. My given name is Mingchen instead of Xia, Xiam, Mincheng, Minchen or Mingcheng. And I am male. 3. Preferred languages: Chinese > English or French. Ich versuche, mein Deutsch zu verbessern. Du kannst mir gern auf Hochdeutsch schreiben, wenn es dich nicht stört, Antworten auf holprigem Deutsch zu bekommen.
 
+![raciste](Pictures/raciste.png)
 
 ## Some Problems
 
