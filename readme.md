@@ -1,5 +1,6 @@
- <link rel="shortcut icon" type="image/x-icon" href="rufa.ico">
-
+ <head> 
+  <link rel="shortcut icon" type="image/x-icon" href="rufa.ico">
+ </head>
 
 # 欢迎/歡迎/Welcome/Välkommen/いらっしゃいませ
 
