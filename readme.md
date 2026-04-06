@@ -10,9 +10,12 @@ I am a “Professor by Special Appointment” at the <a href="https://en.igp.ust
 
 Email: <xiamingchen2008@gmail.com> 
 
+Starting from April 2026, accessing the global internet in China is getting more difficult, I apologize for possibly late replies.
+
 > Good to know before contacting me: 1. À quelques exceptions près, je refuse de contribuer aux revues françaises. 2. My given name is Mingchen instead of Xia, Xiam, Mincheng, Minchen or Mingcheng. And I am male. 3. Preferred languages: Chinese > English or French. Ich versuche, mein Deutsch zu verbessern. Du kannst mir gern auf Hochdeutsch schreiben, wenn es dich nicht stört, Antworten auf holprigem Deutsch zu bekommen.
 
 ![France](Pictures/Missing_France2.png)
+
 
 ## Some Problems
 
