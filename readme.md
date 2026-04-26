@@ -186,6 +186,10 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 > My notes while learning Ducros' book.
 
+- [A proof of Satz von H. Cartan](Notes/SC.pdf)
+
+> I give a proof of Cartan's theorem about closed ideals in Stein algebras. This is a well-known result, but I cannot find the proof anywhere.
+
 ## My favourite links
 
 ### Legal links
