@@ -192,7 +192,7 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - [Schemata über Steinschen Algebren](LaTeX/Bingener.pdf)
 
-> I turn Bingener's famous 1976 paper in to LaTeX format.
+> I turn Bingener's famous 1976 paper in to LaTeX format. 
 
 ## My favourite links
 
