@@ -190,6 +190,9 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 > I give a proof of Cartan's theorem about closed ideals in Stein algebras. This is a well-known result, but I cannot find the proof anywhere.
 
+- [Schemata über Steinschen Algebren](LaTeX/Bingener.pdf)
+
+> I turn Bingener's famous 1976 paper in to LaTeX format.
 
 ## My favourite links
 
