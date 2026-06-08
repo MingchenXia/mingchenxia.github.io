@@ -14,6 +14,7 @@ Email: <xiamingchen2008@gmail.com>
 
 ![France](Pictures/Missing_France2.png)
 
+I am interested in pluripotential theory and Stein spaces at the moment.
 
 ## Some Problems
 
@@ -91,11 +92,13 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - [Transcendental b-divisors](Papers/TB.pdf)
 
-> In this paper, I studied the theory of transcendental b-divisors. Updated in December 2025, references updated.
+> Updated in December 2025.
 
 - [Transcendental b-divisors II](Papers/TB2.pdf)
 
-> Updated on Mar 7, 2026. 
+> Updated in March 2026.
+
+ I'm working on a third part of this series, where I seek to define a new Monge--Ampère measure compatible with Cao's mixed volume.
 
 ### K-stability
 
