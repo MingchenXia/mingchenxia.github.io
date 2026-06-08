@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a professor at the <a href="https://en.igp.ustc.edu.cn/main.htm">Institute of Geometry and Physics</a> in <a href="https://en.wikipedia.org/wiki/Hefei">Hefei</a>.
+I work at the <a href="https://en.igp.ustc.edu.cn/main.htm">Institute of Geometry and Physics</a> in <a href="https://en.wikipedia.org/wiki/Hefei">Hefei</a>.
 
 
 - In 2022, I obtained my PhD degree at <a href="https://www.chalmers.se/sv/Sidor/default.aspx">Chalmers Tekniska Högskola</a> in <a href="https://www.campervansweden.com/blog/about-sweden/swiss-vs-swedish">Sweden</a> (the red part on the map below, ≠ Switzerland) under the supervision of Robert Berman.
