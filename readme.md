@@ -195,6 +195,8 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 > I turn Bingener's famous 1976 paper in to LaTeX format. 
 
+- [Analytic singularities are not birationally invariant](Notes/AS_Bir.pdf)
+
 ## My favourite links
 
 ### Legal links
