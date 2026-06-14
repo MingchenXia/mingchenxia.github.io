@@ -14,7 +14,7 @@ Email: <xiamingchen2008@gmail.com>
 
 ![France](Pictures/Missing_France2.png)
 
-I am interested in pluripotential theory and Stein spaces at the moment.
+I am interested in machine learning and Stein spaces at the moment.
 
 ## Some Problems
 
