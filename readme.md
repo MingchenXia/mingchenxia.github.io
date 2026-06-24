@@ -191,11 +191,16 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 > I give a proof of Cartan's theorem about closed ideals in Stein algebras. This is a well-known result, but I cannot find the proof anywhere.
 
+- [Stein spaces](Notes/SS.pdf)
+
+> My personal notes about the theory of Stein spaces. The 1976 paper of Bingener is integrated into these notes.
+
 - [Schemata über Steinschen Algebren](LaTeX/Bingener.pdf)
 
 > I turn Bingener's famous 1976 paper in to LaTeX format. 
 
 - [Analytic singularities are not birationally invariant](Notes/AS_Bir.pdf)
+
 
 ## My favourite links
 
