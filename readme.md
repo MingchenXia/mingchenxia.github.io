@@ -40,7 +40,7 @@ This is a collection of problems arising from my own research that may be of int
 
 > Lecture notes for my course at Chinese academy of science in the summer of 2023.
 
-- [Singularities in global pluripotential theory](Lectures/SGPT_final.pdf). This is (almost) the final version, accepted by the Springer LNM series (despite the great ostabcles created by a single referee). 
+- [Singularities in global pluripotential theory](Lectures/SGPT_final.pdf). This is (almost) the final version, accepted by the Springer LNM series (despite the great obstacles created by a single referee). 
 
 > Lecture notes for my course at Zhejiang university in the spring of 2024. Please let me know if you find any typos/mistakes or find any of the arguments unclear. Nonsense comments in Frenglish are not welcome.
 
