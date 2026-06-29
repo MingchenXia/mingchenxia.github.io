@@ -5,14 +5,16 @@
 I work at the <a href="https://en.igp.ustc.edu.cn/main.htm">Institute of Geometry and Physics</a> in <a href="https://en.wikipedia.org/wiki/Hefei">Hefei</a>.
 
 
-- In 2022, I obtained my PhD degree at <a href="https://www.chalmers.se/sv/Sidor/default.aspx">Chalmers Tekniska Högskola</a> in <a href="https://www.campervansweden.com/blog/about-sweden/swiss-vs-swedish">Sweden</a> (the red part on the map below, ≠ Switzerland) under the supervision of Robert Berman.
+- In 2022, I obtained my PhD degree at <a href="https://www.chalmers.se/sv/Sidor/default.aspx">Chalmers Tekniska Högskola</a> in <a href="https://www.campervansweden.com/blog/about-sweden/swiss-vs-swedish">Sweden</a> under the supervision of Robert Berman.
 - Afterwards, I was a <a href="https://kaw.wallenberg.org/en/mingchen-xia">Wallenberg postdoc</a> from 2022 to 2025. In 2023 and 2024 I applied for the CNRS position twice without getting a single interview.
 
 Email: <xiamingchen2008@gmail.com> 
 
 > Good to know before contacting me: 1. À quelques exceptions près, je refuse de contribuer aux revues françaises. 2. My given name is Mingchen instead of Xia, Xiam, Mincheng, Minchen or Mingcheng. And I am male. 3. Preferred languages: Chinese > English or French. Ich versuche, mein Deutsch zu verbessern. Du kannst mir gern auf Hochdeutsch schreiben, wenn es dich nicht stört, Antworten auf holprigem Deutsch zu bekommen.
 
-![France](Pictures/Missing_France2.png)
+![France](Pictures/Fier.jpg)
+
+*Ce que j'ai achté à Paris. Le prix colle bien avec le titre.*
 
 I am interested in machine learning and Stein spaces at the moment.
 
