@@ -14,7 +14,6 @@ Email: <xiamingchen2008@gmail.com>
 
 ![France](Pictures/Fier.jpg)
 
-*Ce que j'ai acheté à Paris. Le prix colle bien avec le titre.*
 
 I am interested in machine learning and Stein spaces at the moment.
 
