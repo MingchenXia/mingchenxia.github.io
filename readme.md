@@ -87,7 +87,7 @@ This is a collection of problems arising from my own research that may be of int
 
 >Errare humanum est.
 
-All my preprints can be found on arXiv. See [my Google Scholar page](https://scholar.google.se/citations?user=1GbYhEMAAAAJ) as well.
+All my preprints can be found on arXiv. See [my Google Scholar page](https://scholar.google.se/citations?user=1GbYhEMAAAAJ) as well. All my mathematical works starting from July 2026 rely on AI.
 
 ### Works in progress
 
