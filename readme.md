@@ -91,6 +91,10 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 ### Works in progress
 
+- [Analytic Bertini Theorem II --- The local case](Papers/ABT2.pdf)
+
+> Updated in July 2026. I completely solved the local version of the analytic Bertini theorem.
+
 - [Transcendental b-divisors](Papers/TB.pdf)
 
 > Updated in December 2025.
