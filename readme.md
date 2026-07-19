@@ -101,7 +101,7 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - [Transcendental b-divisors II](Papers/TB2.pdf)
 
-> Updated in March 2026.
+> Updated in July 2026. The optimal constant in Corollary 6.17 is obtained.
 
  I'm working on a third part of this series, where I seek to define a new Monge--Ampère measure compatible with Cao's mixed volume.
 
