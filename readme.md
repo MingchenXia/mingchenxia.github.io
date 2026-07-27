@@ -91,6 +91,10 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 ### Works in progress
 
+- [Mixed volumes of Okounkov bodies](Papers/MVOB.pdf)
+
+> Updated in July 2026. I proved the mixed volume formula of Okounkov bodies and partial Okounkov bodies.
+
 - [Analytic Bertini Theorem II --- The local case](Papers/ABT2.pdf)
 
 > Updated in July 2026. I completely solved the local version of the analytic Bertini theorem.
