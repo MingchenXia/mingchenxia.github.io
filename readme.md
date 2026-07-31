@@ -15,7 +15,7 @@ Email: <xiamingchen2008@gmail.com>
 ![France](Pictures/Fier.jpg)
 
 
-I am interested in machine learning and Stein spaces at the moment.
+I am interested in machine learning and LLM for the moment.
 
 ## Some Problems
 
@@ -147,7 +147,7 @@ All my preprints can be found on arXiv. See [my Google Scholar page](https://sch
 
 - The trace operator of quasi-plurisubharmonic functions on compact Kähler manifolds, (joint with Tamás Darvas). [arXiv:2403.08259](https://arxiv.org/abs/2403.08259)
 
-> A different point of view to the trace operator can be found in my lecture notes at Zhejiang university. Given the strong analogy with the usual trace opeartor, it is natural to ask if one could solve the Dirichlet problem for our trace operators: Is it possible to extend (in the sense of trace operators, up to I-equivalence) any Kähler current within a given big cohomology class?
+- A counterexample to the zero-mass conjecture, (joint with Long Li). [arXiv:2607.26549](https://arxiv.org/abs/2607.26549)
 
 ### Non-Archimedean geometry and algebraic geometry
 
