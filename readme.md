@@ -19,16 +19,6 @@ Email: <xiamingchen2008@gmail.com>
 
 I am interested in machine learning and LLM for the moment.
 
-## Some Problems
-
-This is a collection of problems arising from my own research that may be of interest to people outside my domain.  If you know the solutions to any of the following problems, please let me know.
-
-- [Flat pull-back of currents on complex analytic spaces](https://mathoverflow.net/questions/407628/regularity-of-fiber-integration-between-complex-analytic-spaces)
-
-- [Compute mixed volumes of big line bundles from Okounkov bodies](https://mathoverflow.net/questions/408179/mixed-volumes-of-newton-okounkov-bodies)
-
-> By [a theorem of Jow](https://arxiv.org/abs/0902.2521), information of all Okounkov bodies determines all numerical information of line bundles. This problem asks for explicit formulae.
-
 ## Lecture notes
 
 > Fere libenter homines id quod volunt credunt.
