@@ -72,6 +72,8 @@ I am interested in machine learning and LLM for the moment.
 
 - [Transcendental b-divisors](Beamers/TBD.pdf) Göteborg, 05/28/2025.
 
+- [Zero-mass conjecture --- An AI-assisted counterexample](Beamers/ZMC.pdf) Harbin, 08/14/2026.
+
 
 
 
