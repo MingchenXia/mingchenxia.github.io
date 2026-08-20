@@ -1,12 +1,12 @@
-# 欢迎/歡迎/Welcome/Välkommen/いらっしゃいませ
+# <span class="welcome-word">欢迎/</span><wbr><span class="welcome-word">歡迎/</span><wbr><span class="welcome-word">Welcome/</span><wbr><span class="welcome-word">Välkommen/</span><wbr><span class="welcome-word">いらっしゃいませ</span>
 
 ## About Me
 
-I am a vibe mathematician at the <a href="https://en.igp.ustc.edu.cn/main.htm">Institute of Geometry and Physics</a> in <a href="https://en.wikipedia.org/wiki/Hefei">Hefei</a>.
+I am a <span class="term-tooltip" tabindex="0" role="term" aria-describedby="vibe-mathematician-definition">vibe mathematician<span class="term-tooltip__content" id="vibe-mathematician-definition" role="tooltip"><strong>vibe mathematician</strong>A mathematician who uses AI instead of the human brain to do mathematics.</span></span> at the <a href="https://en.igp.ustc.edu.cn/main.htm">Institute of Geometry and Physics</a> in <a href="https://en.wikipedia.org/wiki/Hefei">Hefei</a>.
 
 
-- In 2022, I obtained my PhD degree at <a href="https://www.chalmers.se/sv/Sidor/default.aspx">Chalmers Tekniska Högskola</a> in <a href="https://www.campervansweden.com/blog/about-sweden/swiss-vs-swedish">Sweden</a> under the supervision of Robert Berman.
-- Afterwards, I was a <a href="https://kaw.wallenberg.org/en/mingchen-xia">Wallenberg postdoc</a> from 2022 to 2025. In 2023 and 2024 I applied for the CNRS position twice without getting a single interview.
+- In 2022, I obtained my PhD degree at <a href="https://www.chalmers.se/sv/Sidor/default.aspx">Chalmers Tekniska Högskola</a> in <span class="term-tooltip term-tooltip--sweden" tabindex="0" role="term" aria-describedby="sweden-definition">Sweden<span class="term-tooltip__content" id="sweden-definition" role="tooltip"><strong>Sweden</strong>A Scandinavian country. It is not Switzerland.</span></span> under the supervision of Robert Berman.
+- Afterwards, I was a <a href="https://kaw.wallenberg.org/en/mingchen-xia">Wallenberg postdoc</a> from 2022 to 2025. In 2023 and 2024 I applied for the <span class="term-tooltip term-tooltip--cnrs" tabindex="0" role="term" aria-describedby="cnrs-definition"><a href="https://www.cnrs.fr/fr/actualite/le-cnrs-lance-avec-mistral-ai-un-outil-dia-generative-securise-mis-disposition-de-ses">CNRS</a><span class="term-tooltip__content" id="cnrs-definition" role="tooltip"><strong>CNRS</strong>An outdated French research institution that prohibits the use of any AI that is actually useful.</span></span> position twice without getting a single interview.
 
 Email: <xiamingchen2008@gmail.com> 
 

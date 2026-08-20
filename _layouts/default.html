@@ -1,47 +1,41 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset='utf-8'>
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0b110d">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="shortcut icon" type="image/x-icon" href="rufa.ico">
-    
-{% seo %}
+    <link rel="shortcut icon" type="image/x-icon" href="{{ '/rufa.ico' | relative_url }}">
+
+    {% seo %}
   </head>
 
-
-  
-  
-  
-  
-  
-
-
   <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
 
-    <header>
+    <header class="site-header">
       <div class="container">
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{site.title|default: site.github.repository_name }}</h1>
+        <a id="a-title" class="site-title" href="{{ '/' | relative_url }}" aria-label="Home">
+          <span class="site-mark" aria-hidden="true">∫</span>
+          <span>{{ site.title | default: site.github.repository_name }}</span>
         </a>
 
-
-        <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %}
-
-        </section>
+        <nav class="site-nav" aria-label="Primary navigation">
+          <a href="{{ '/' | relative_url }}#about-me">About</a>
+          <a href="{{ '/' | relative_url }}#lecture-notes">Lectures</a>
+          <a href="{{ '/' | relative_url }}#beamers">Talks</a>
+          <a href="{{ '/' | relative_url }}#research">Research</a>
+          <a href="{{ '/' | relative_url }}#some-notes">Notes</a>
+        </nav>
       </div>
     </header>
 
-    <div class="container">
+    <main id="main-content" class="container page-shell">
       <section id="main_content">
         {{ content }}
       </section>
-    </div>
+    </main>
 
     {% if site.google_analytics %}
       <script>
