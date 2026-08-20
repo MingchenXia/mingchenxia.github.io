@@ -4,28 +4,27 @@
 @import "{{ site.theme }}";
 
 :root {
-  color-scheme: dark;
-  --page-bg: #0b110d;
-  --surface: #111a14;
-  --surface-raised: #17221a;
-  --text: #e4ebe5;
-  --muted: #aab8ad;
-  --accent: #86d09f;
-  --accent-strong: #b2edc4;
-  --border: rgba(153, 205, 169, 0.18);
+  color-scheme: light;
+  --page-bg: #ffffff;
+  --surface: rgba(255, 255, 255, 0.78);
+  --surface-raised: rgba(255, 255, 255, 0.94);
+  --text: #1d2a21;
+  --muted: #53645a;
+  --accent: #2f7b45;
+  --accent-strong: #1f6335;
+  --border: rgba(47, 123, 69, 0.2);
   --header-height: 68px;
 }
 
 html {
+  background: var(--page-bg);
   scroll-behavior: smooth;
   scroll-padding-top: calc(var(--header-height) + 28px);
 }
 
 body {
   margin: 0;
-  background:
-    radial-gradient(circle at 50% -20%, rgba(73, 133, 91, 0.13), transparent 38rem),
-    var(--page-bg);
+  background: transparent;
   color: var(--text);
   font-family: Charter, "Bitstream Charter", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
   font-size: 17px;
@@ -67,7 +66,7 @@ body {
   padding: 0;
   border: 0;
   border-bottom: 1px solid var(--border);
-  background: rgba(8, 14, 10, 0.9);
+  background: rgba(255, 255, 255, 0.88);
   backdrop-filter: blur(14px);
   -webkit-backdrop-filter: blur(14px);
 }
@@ -258,7 +257,7 @@ body {
   border: 1px solid var(--border);
   border-left: 3px solid rgba(134, 208, 159, 0.65);
   border-radius: 0 8px 8px 0;
-  background: rgba(23, 34, 26, 0.7);
+  background: rgba(248, 251, 248, 0.92);
   color: var(--muted);
   font-size: 0.94rem;
   font-style: normal;
