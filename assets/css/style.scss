@@ -18,6 +18,7 @@
 
 html {
   background: var(--page-bg);
+  overflow-x: hidden;
   scroll-behavior: smooth;
   scroll-padding-top: calc(var(--header-height) + 28px);
 }
@@ -29,6 +30,7 @@ body {
   font-family: Charter, "Bitstream Charter", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
   font-size: 17px;
   line-height: 1.72;
+  overflow-x: hidden;
 }
 
 .container {
@@ -118,6 +120,7 @@ body {
   position: relative;
   border: 0;
   color: var(--muted);
+  white-space: nowrap;
   text-decoration: none;
   text-shadow: none;
   transition: color 160ms ease;
@@ -442,7 +445,7 @@ body {
     width: 100%;
     justify-content: space-between;
     gap: 12px;
-    overflow-x: auto;
+    overflow: visible;
     padding-bottom: 2px;
     font-size: 0.7rem;
     scrollbar-width: none;
@@ -475,10 +478,16 @@ body {
   }
 
   .term-tooltip__content {
-    right: auto;
-    left: -40px;
-    width: min(320px, calc(100vw - 32px));
-    transform: translate(0, 8px);
+    position: fixed;
+    right: 16px;
+    bottom: 16px;
+    left: 16px;
+    z-index: 90;
+    width: auto;
+    max-height: min(70vh, 420px);
+    overflow-y: auto;
+    overflow-wrap: anywhere;
+    transform: translateY(8px);
   }
 
   @media (max-width: 520px) {
@@ -492,18 +501,15 @@ body {
     }
   }
 
-  .term-tooltip--sweden .term-tooltip__content {
-    left: -32px;
-  }
-
   .term-tooltip::after {
-    left: 28px;
+    display: none;
   }
 
   .term-tooltip:hover .term-tooltip__content,
   .term-tooltip:focus .term-tooltip__content,
-  .term-tooltip:focus-visible .term-tooltip__content {
-    transform: translate(0, 0);
+  .term-tooltip:focus-visible .term-tooltip__content,
+  .term-tooltip.is-open .term-tooltip__content {
+    transform: translateY(0);
   }
 }
 
