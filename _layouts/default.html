@@ -37,6 +37,94 @@
       </section>
     </main>
 
+    <script>
+      (function () {
+        var terms = Array.prototype.slice.call(document.querySelectorAll('.term-tooltip'));
+        var touchQuery = window.matchMedia('(hover: none) and (pointer: coarse)');
+        var mobileQuery = window.matchMedia('(max-width: 760px)');
+
+        if (!terms.length) {
+          return;
+        }
+
+        var isTouchViewport = function () {
+          return touchQuery.matches || mobileQuery.matches;
+        };
+
+        var setOpen = function (term, open) {
+          term.classList.toggle('is-open', open);
+          term.setAttribute('aria-expanded', String(open));
+        };
+
+        var closeAll = function () {
+          terms.forEach(function (term) {
+            setOpen(term, false);
+          });
+
+          var active = document.activeElement;
+          if (active && active.closest && active.closest('.term-tooltip')) {
+            active.blur();
+          }
+        };
+
+        var openTerm = function (term) {
+          closeAll();
+          setOpen(term, true);
+          if (term.focus) {
+            term.focus({ preventScroll: true });
+          }
+        };
+
+        terms.forEach(function (term) {
+          term.setAttribute('aria-expanded', 'false');
+
+          term.addEventListener('click', function (event) {
+            if (!isTouchViewport()) {
+              return;
+            }
+
+            var target = event.target;
+            var link = target && target.closest ? target.closest('a') : null;
+
+            if (term.classList.contains('term-tooltip--cnrs') && link) {
+              if (!term.classList.contains('is-open')) {
+                event.preventDefault();
+                event.stopPropagation();
+                openTerm(term);
+              }
+              return;
+            }
+
+            if (!link) {
+              event.preventDefault();
+              if (term.classList.contains('is-open')) {
+                closeAll();
+              } else {
+                openTerm(term);
+              }
+            }
+          });
+
+          term.addEventListener('keydown', function (event) {
+            if (event.key === 'Escape') {
+              closeAll();
+            }
+          });
+        });
+
+        document.addEventListener('pointerdown', function (event) {
+          if (!isTouchViewport()) {
+            return;
+          }
+
+          var target = event.target;
+          if (!target || !target.closest || !target.closest('.term-tooltip')) {
+            closeAll();
+          }
+        });
+      }());
+    </script>
+
     {% if site.google_analytics %}
       <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
