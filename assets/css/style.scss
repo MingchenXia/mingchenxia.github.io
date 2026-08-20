@@ -97,16 +97,12 @@ body {
 }
 
 .site-mark {
-  display: grid;
+  display: block;
   width: 30px;
   height: 30px;
-  place-items: center;
+  object-fit: cover;
   border: 1px solid rgba(134, 208, 159, 0.32);
   border-radius: 50%;
-  color: var(--accent-strong);
-  font-family: Georgia, serif;
-  font-size: 1.05rem;
-  line-height: 1;
 }
 
 .site-nav {
@@ -180,6 +176,11 @@ body {
 
 .welcome-word {
   display: inline-block;
+}
+
+.welcome-pair {
+  display: inline-block;
+  white-space: nowrap;
 }
 
 #main_content h2,
@@ -271,6 +272,25 @@ body {
   border: 1px solid var(--border);
   border-radius: 10px;
   box-shadow: 0 18px 50px rgba(0, 0, 0, 0.25);
+}
+
+.about-note {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 180px;
+  align-items: center;
+  gap: clamp(18px, 4vw, 32px);
+  margin: 1.25rem 0 1.65rem;
+}
+
+.about-note blockquote {
+  margin: 0;
+}
+
+.about-note img {
+  width: 180px;
+  max-width: 100%;
+  margin: 0;
+  justify-self: end;
 }
 
 .term-tooltip {
@@ -405,6 +425,15 @@ body {
     padding-block: 38px 72px;
   }
 
+  .about-note {
+    grid-template-columns: minmax(0, 1fr) 140px;
+    gap: 16px;
+  }
+
+  .about-note img {
+    width: 140px;
+  }
+
   #main_content > h1:first-child {
     margin-bottom: 2rem;
     font-size: clamp(1.8rem, 9vw, 2.5rem);
@@ -419,6 +448,17 @@ body {
     left: -40px;
     width: min(320px, calc(100vw - 32px));
     transform: translate(0, 8px);
+  }
+
+  @media (max-width: 520px) {
+    .about-note {
+      grid-template-columns: 1fr;
+    }
+
+    .about-note img {
+      width: 150px;
+      justify-self: center;
+    }
   }
 
   .term-tooltip--sweden .term-tooltip__content {

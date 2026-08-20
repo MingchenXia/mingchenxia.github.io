@@ -1,4 +1,4 @@
-# <span class="welcome-word">欢迎/</span><wbr><span class="welcome-word">歡迎/</span><wbr><span class="welcome-word">Welcome/</span><wbr><span class="welcome-word">Välkommen/</span><wbr><span class="welcome-word">いらっしゃいませ</span>
+# <span class="welcome-pair"><span class="welcome-word">欢迎/</span><span class="welcome-word">歡迎/</span></span><wbr><span class="welcome-word">Welcome/</span><wbr><span class="welcome-word">Välkommen/</span><wbr><span class="welcome-word">いらっしゃいませ</span>
 
 ## About Me
 
@@ -10,12 +10,14 @@ I am a <span class="term-tooltip" tabindex="0" role="term" aria-describedby="vib
 
 Email: <xiamingchen2008@gmail.com> 
 
-> Good to know before contacting me: 1. À quelques exceptions près, je refuse de contribuer aux revues françaises. 2. My given name is Mingchen instead of Xia, Xiam, Mincheng, Minchen or Mingcheng. And I am male. 3. Preferred languages: Chinese > English or French. Ich versuche, mein Deutsch zu verbessern. Du kannst mir gern auf Hochdeutsch schreiben, wenn es dich nicht stört, Antworten auf holprigem Deutsch zu bekommen.
+<div class="about-note">
+  <blockquote>
+    <p>Good to know before contacting me: 1. À quelques exceptions près, je refuse de contribuer aux revues françaises. 2. My given name is Mingchen instead of Xia, Xiam, Mincheng, Minchen or Mingcheng. And I am male. 3. Preferred languages: Chinese > English or French. Ich versuche, mein Deutsch zu verbessern. Du kannst mir gern auf Hochdeutsch schreiben, wenn es dich nicht stört, Antworten auf holprigem Deutsch zu bekommen.</p>
+  </blockquote>
+  <img src="Pictures/Fier.jpg" alt="France">
+</div>
 
 [Where I stand on AI and mathematics](ai-and-mathematics.md)
-
-![France](Pictures/Fier.jpg)
-
 
 I am interested in machine learning and LLM for the moment.
 
