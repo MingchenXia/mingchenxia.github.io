@@ -17,7 +17,7 @@ Email: <xiamingchen2008@gmail.com>
   <img src="Pictures/Fier.jpg" alt="France">
 </div>
 
-[Where I stand on AI and mathematics](ai-and-mathematics.md)
+[Where I stand on AI and mathematics](ai-and-mathematics.html)
 
 I am interested in machine learning and LLM for the moment.
 
