@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a <span class="term-tooltip" tabindex="0" role="term" aria-describedby="vibe-mathematician-definition">vibe mathematician<span class="term-tooltip__content" id="vibe-mathematician-definition" role="tooltip"><strong>vibe mathematician</strong>A mathematician who uses AI instead of the human brain to do mathematics.</span></span> at the <a href="https://en.igp.ustc.edu.cn/main.htm">Institute of Geometry and Physics</a> in <a href="https://en.wikipedia.org/wiki/Hefei">Hefei</a>.
+I am a <span class="term-tooltip" tabindex="0" role="term" aria-describedby="vibe-mathematician-definition">vibe mathematician<span class="term-tooltip__content" id="vibe-mathematician-definition" role="tooltip"><strong>vibe mathematician</strong>A mathematician who uses AI instead of the human brain to do mathematics.</span></span> at the <a href="https://en.igp.ustc.edu.cn/main.htm">Institute of Geometry and Physics</a> in <a href="https://en.wikipedia.org/wiki/Hefei">Hefei</a>. <span class="scratch-secret" tabindex="0" role="note" aria-label="Hidden note">主业是乳法。</span>
 
 
 - In 2022, I obtained my PhD degree at <a href="https://www.chalmers.se/sv/Sidor/default.aspx">Chalmers Tekniska Högskola</a> in <span class="term-tooltip term-tooltip--sweden" tabindex="0" role="term" aria-describedby="sweden-definition">Sweden<span class="term-tooltip__content" id="sweden-definition" role="tooltip"><strong>Sweden</strong>A Scandinavian country. It is not Switzerland.</span></span> under the supervision of Robert Berman.
@@ -12,7 +12,7 @@ Email: <xiamingchen2008@gmail.com>
 
 <div class="about-note">
   <blockquote>
-    <p>Good to know before contacting me: 1. À quelques exceptions près, je refuse de contribuer aux revues françaises. 2. My given name is Mingchen instead of Xia, Xiam, Mincheng, Minchen or Mingcheng. And I am male. 3. Preferred languages: Chinese > English or French. Ich versuche, mein Deutsch zu verbessern. Du kannst mir gern auf Hochdeutsch schreiben, wenn es dich nicht stört, Antworten auf holprigem Deutsch zu bekommen.</p>
+    <p>Good to know before contacting me: 1. À quelques exceptions près, je refuse de <span class="term-tooltip" tabindex="0" role="term" aria-describedby="contribuer-definition">contribuer<span class="term-tooltip__content" id="contribuer-definition" role="tooltip"><strong>contribuer</strong>En tant que relecteur et auteur</span></span> aux revues françaises. 2. My given name is Mingchen instead of Xia, Xiam, Mincheng, Minchen or Mingcheng. And I am male. 3. Preferred languages: Chinese > English or French. Ich versuche, mein Deutsch zu verbessern. Du kannst mir gern auf Hochdeutsch schreiben, wenn es dich nicht stört, Antworten auf holprigem Deutsch zu bekommen.</p>
   </blockquote>
   <img src="Pictures/Fier.jpg" alt="France">
 </div>

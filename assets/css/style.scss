@@ -284,7 +284,7 @@ body {
 .about-note {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 180px;
-  align-items: center;
+  align-items: stretch;
   gap: clamp(18px, 4vw, 32px);
   margin: 1.25rem 0 1.65rem;
 }
@@ -295,9 +295,28 @@ body {
 
 .about-note img {
   width: 180px;
+  height: 100%;
   max-width: 100%;
   margin: 0;
   justify-self: end;
+  object-fit: cover;
+}
+
+.scratch-secret {
+  display: inline-block;
+  margin-left: 0.25em;
+  padding: 0 0.28em;
+  border-radius: 3px;
+  background: #111;
+  color: #111;
+  cursor: text;
+  user-select: text;
+  -webkit-user-select: text;
+}
+
+.scratch-secret::selection {
+  background: #555;
+  color: #fff;
 }
 
 .term-tooltip {
@@ -497,6 +516,7 @@ body {
 
     .about-note img {
       width: 150px;
+      height: auto;
       justify-self: center;
     }
   }
