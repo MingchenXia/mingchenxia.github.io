@@ -85,6 +85,8 @@ I am interested in machine learning and LLM for the moment.
 
 All my preprints can be found on arXiv. See [my Google Scholar page](https://scholar.google.se/citations?user=1GbYhEMAAAAJ) as well. All my mathematical works starting from July 2026 rely on AI.
 
+I am glad to spend my extra tokens on helping the other mathematicians (French excluded). Feel free to contact me!
+
 ### Works in progress
 
 - [Mixed volumes of Okounkov bodies](Papers/MVOB.pdf)
