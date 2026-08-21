@@ -12,7 +12,7 @@ Email: <xiamingchen2008@gmail.com>
 
 <div class="about-note">
   <blockquote>
-    <p>Good to know before contacting me: 1. À quelques exceptions près, je refuse de <span class="term-tooltip" tabindex="0" role="term" aria-describedby="contribuer-definition">contribuer<span class="term-tooltip__content" id="contribuer-definition" role="tooltip"><strong>contribuer</strong>En tant que relecteur et auteur</span></span> aux revues françaises. 2. My given name is Mingchen instead of Xia, Xiam, Mincheng, Minchen or Mingcheng. And I am male. 3. Preferred languages: Chinese > English or French. Ich versuche, mein Deutsch zu verbessern. Du kannst mir gern auf Hochdeutsch schreiben, wenn es dich nicht stört, Antworten auf holprigem Deutsch zu bekommen.</p>
+    <p>Good to know before contacting me: 1. À quelques exceptions près, je refuse de <span class="term-tooltip" tabindex="0" role="term" aria-describedby="contribuer-definition">contribuer<span class="term-tooltip__content" id="contribuer-definition" role="tooltip"><strong>contribuer</strong>En tant que    rapporteur et auteur</span></span> aux revues françaises. 2. My given name is Mingchen instead of Xia, Xiam, Mincheng, Minchen or Mingcheng. And I am male. 3. Preferred languages: Chinese > English or French. Ich versuche, mein Deutsch zu verbessern. Du kannst mir gern auf Hochdeutsch schreiben, wenn es dich nicht stört, Antworten auf holprigem Deutsch zu bekommen.</p>
   </blockquote>
   <img src="Pictures/Fier.jpg" alt="France">
 </div>
