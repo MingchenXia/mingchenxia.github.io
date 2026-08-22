@@ -72,6 +72,21 @@
 
         });
 
+        document.addEventListener('selectionchange', function () {
+          var selection = window.getSelection ? window.getSelection() : null;
+          if (!selection || !selection.rangeCount || selection.isCollapsed) {
+            return;
+          }
+
+          var range = selection.getRangeAt(0);
+          scratchSecrets.forEach(function (secret) {
+            if (range.intersectsNode && range.intersectsNode(secret)) {
+              secret.classList.add('is-revealed');
+              secret.setAttribute('aria-expanded', 'true');
+            }
+          });
+        });
+
         document.addEventListener('copy', function (event) {
           var selection = window.getSelection ? window.getSelection() : null;
           if (!selection || !selection.rangeCount) {
