@@ -276,18 +276,6 @@ body {
   transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
 }
 
-.content-section--lecture li::before,
-.content-section--notes li::before {
-  position: absolute;
-  top: 1.2em;
-  left: 0.62rem;
-  width: 4px;
-  height: 4px;
-  border-radius: 50%;
-  background: var(--accent);
-  content: "";
-}
-
 .content-section--lecture li:hover,
 .content-section--lecture li:focus-within,
 .content-section--notes li:hover,
@@ -373,6 +361,41 @@ body {
 
 #main_content li::marker {
   color: rgba(134, 208, 159, 0.72);
+}
+
+/* The Hacker theme adds a chevron to list items; resource entries use the card
+   outline and spacing as their visual grouping instead. */
+#main_content .content-section--lecture ul,
+#main_content .content-section--notes ul,
+#main_content .content-section--research ul {
+  padding-left: 0;
+}
+
+#main_content .content-section--lecture li,
+#main_content .content-section--notes li,
+#main_content .content-section--research li {
+  margin-bottom: 0;
+}
+
+#main_content .content-section--lecture ul > li::before,
+#main_content .content-section--notes ul > li::before,
+#main_content .content-section--research ul > li::before {
+  display: none;
+}
+
+#main_content .content-section--lecture ul > li,
+#main_content .content-section--notes ul > li,
+#main_content .content-section--research ul > li {
+  list-style: none;
+}
+
+#main_content .content-section--lecture li,
+#main_content .content-section--notes li {
+  padding-left: 1rem;
+}
+
+#main_content .content-section--research li {
+  padding-left: 0;
 }
 
 #main_content blockquote {
