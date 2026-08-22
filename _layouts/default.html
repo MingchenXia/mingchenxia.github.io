@@ -52,8 +52,41 @@
     <script>
       (function () {
         var terms = Array.prototype.slice.call(document.querySelectorAll('.term-tooltip'));
+        var scratchSecrets = Array.prototype.slice.call(document.querySelectorAll('.scratch-secret'));
         var touchQuery = window.matchMedia('(hover: none) and (pointer: coarse)');
         var mobileQuery = window.matchMedia('(max-width: 760px)');
+
+        scratchSecrets.forEach(function (secret) {
+          secret.setAttribute('aria-expanded', 'false');
+          secret.setAttribute('aria-label', 'Tap to reveal hidden note');
+
+          secret.addEventListener('click', function (event) {
+            if (!touchQuery.matches && !mobileQuery.matches) {
+              return;
+            }
+
+            event.preventDefault();
+            var revealed = secret.classList.toggle('is-revealed');
+            secret.setAttribute('aria-expanded', String(revealed));
+          });
+
+        });
+
+        document.addEventListener('copy', function (event) {
+          var selection = window.getSelection ? window.getSelection() : null;
+          if (!selection || !selection.rangeCount) {
+            return;
+          }
+
+          var selectedSecret = scratchSecrets.some(function (secret) {
+            var range = selection.getRangeAt(0);
+            return range.intersectsNode ? range.intersectsNode(secret) : secret.contains(selection.anchorNode);
+          });
+
+          if (selectedSecret) {
+            event.preventDefault();
+          }
+        });
 
         if (!terms.length) {
           return;

@@ -544,6 +544,12 @@ body {
 .scratch-secret::selection {
   background: #555;
   color: #fff;
+  -webkit-text-fill-color: #fff;
+}
+
+.scratch-secret.is-revealed {
+  color: #fff;
+  -webkit-text-fill-color: #fff;
 }
 
 .term-tooltip {
