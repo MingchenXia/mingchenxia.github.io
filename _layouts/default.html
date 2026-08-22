@@ -61,6 +61,70 @@
           secret.setAttribute('aria-label', 'Select to reveal hidden note');
         });
 
+        var selectionUpdating = false;
+        var clearScratchHighlight = function (secret) {
+          var highlighted = secret.querySelector('.scratch-secret__selected');
+          if (!highlighted) {
+            return;
+          }
+
+          highlighted.replaceWith(document.createTextNode(highlighted.textContent));
+          secret.normalize();
+        };
+
+        document.addEventListener('selectionchange', function () {
+          if (selectionUpdating) {
+            return;
+          }
+
+          var selection = window.getSelection ? window.getSelection() : null;
+          scratchSecrets.forEach(function (secret) {
+            if (!selection || !selection.rangeCount || selection.isCollapsed) {
+              clearScratchHighlight(secret);
+              secret.setAttribute('aria-expanded', 'false');
+              return;
+            }
+
+            var range = selection.getRangeAt(0);
+            if (!range.intersectsNode || !range.intersectsNode(secret)) {
+              clearScratchHighlight(secret);
+              secret.setAttribute('aria-expanded', 'false');
+              return;
+            }
+
+            var textNode = secret.firstChild;
+            if (!textNode || textNode.nodeType !== Node.TEXT_NODE || secret.querySelector('.scratch-secret__selected')) {
+              return;
+            }
+
+            var start = range.startContainer === textNode ? range.startOffset : 0;
+            var end = range.endContainer === textNode ? range.endOffset : textNode.nodeValue.length;
+            if (start >= end) {
+              return;
+            }
+
+            var text = textNode.nodeValue;
+            var fragment = document.createDocumentFragment();
+            if (start > 0) {
+              fragment.appendChild(document.createTextNode(text.slice(0, start)));
+            }
+
+            var highlighted = document.createElement('span');
+            highlighted.className = 'scratch-secret__selected';
+            highlighted.textContent = text.slice(start, end);
+            fragment.appendChild(highlighted);
+
+            if (end < text.length) {
+              fragment.appendChild(document.createTextNode(text.slice(end)));
+            }
+
+            selectionUpdating = true;
+            secret.replaceChildren(fragment);
+            secret.setAttribute('aria-expanded', 'true');
+            selectionUpdating = false;
+          });
+        });
+
         document.addEventListener('copy', function (event) {
           var selection = window.getSelection ? window.getSelection() : null;
           if (!selection || !selection.rangeCount) {

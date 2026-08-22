@@ -547,6 +547,12 @@ body {
   -webkit-text-fill-color: #fff !important;
 }
 
+.scratch-secret__selected {
+  background: #555;
+  color: #fff;
+  -webkit-text-fill-color: #fff;
+}
+
 .term-tooltip {
   position: relative;
   display: inline-block;
