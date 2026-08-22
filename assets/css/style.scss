@@ -348,6 +348,37 @@ body {
   color: var(--accent-strong);
 }
 
+.section-jump,
+.section-jump:hover,
+.section-jump:focus-visible {
+  display: inline-flex;
+  width: 1.35rem;
+  height: 1.35rem;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0.28rem;
+  border: 1px solid rgba(47, 123, 69, 0.36);
+  border-radius: 50%;
+  background: rgba(248, 251, 248, 0.9);
+  color: var(--accent-strong);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.95rem;
+  font-weight: 700;
+  line-height: 1;
+  text-decoration: none;
+  text-shadow: none;
+  vertical-align: 0.05em;
+  transition: background 160ms ease, border-color 160ms ease, color 160ms ease, transform 160ms ease;
+}
+
+.section-jump:hover,
+.section-jump:focus-visible {
+  border-color: var(--accent-strong);
+  background: rgba(226, 242, 230, 0.95);
+  color: var(--accent-strong);
+  transform: translateY(2px);
+}
+
 #main_content ul,
 #main_content ol {
   margin-block: 0.8rem 1.6rem;
