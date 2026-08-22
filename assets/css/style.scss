@@ -220,6 +220,127 @@ body {
   line-height: 1.35;
 }
 
+.content-section {
+  margin-top: clamp(3.5rem, 8vw, 5.25rem);
+}
+
+.content-section > h2 {
+  margin-top: 0;
+}
+
+.content-section h3 {
+  position: relative;
+  margin-top: 2.7rem;
+  padding-top: 0.95rem;
+  border-top: 1px solid rgba(47, 123, 69, 0.14);
+}
+
+.content-section h3::before {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  width: 42px;
+  height: 2px;
+  background: var(--accent);
+  content: "";
+}
+
+.content-section > blockquote:first-of-type {
+  max-width: 56ch;
+  margin-top: 1.05rem;
+  border-left-width: 2px;
+  background: rgba(248, 251, 248, 0.68);
+  font-family: Charter, "Bitstream Charter", Georgia, serif;
+  font-size: 1rem;
+  letter-spacing: 0.01em;
+}
+
+.content-section--lecture ul,
+.content-section--notes ul {
+  display: grid;
+  gap: 0.7rem;
+  margin-block: 1.15rem 1.8rem;
+  padding-left: 0;
+  list-style: none;
+}
+
+.content-section--lecture li,
+.content-section--notes li {
+  position: relative;
+  margin: 0;
+  padding: 0.82rem 1rem 0.82rem 1.25rem;
+  border: 1px solid rgba(47, 123, 69, 0.16);
+  border-radius: 10px;
+  background: linear-gradient(135deg, rgba(248, 251, 248, 0.9), rgba(255, 255, 255, 0.55));
+  box-shadow: 0 8px 20px rgba(31, 99, 53, 0.04);
+  transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+
+.content-section--lecture li::before,
+.content-section--notes li::before {
+  position: absolute;
+  top: 1.2em;
+  left: 0.62rem;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: var(--accent);
+  content: "";
+}
+
+.content-section--lecture li:hover,
+.content-section--lecture li:focus-within,
+.content-section--notes li:hover,
+.content-section--notes li:focus-within {
+  border-color: rgba(47, 123, 69, 0.34);
+  box-shadow: 0 11px 26px rgba(31, 99, 53, 0.08);
+  transform: translateY(-1px);
+}
+
+.content-section--lecture blockquote,
+.content-section--notes blockquote,
+.content-section--research blockquote {
+  margin: -0.35rem 0 1.25rem 1.1rem;
+  padding: 0.35rem 0 0.35rem 1rem;
+  border: 0;
+  border-left: 2px solid rgba(134, 208, 159, 0.68);
+  border-radius: 0;
+  background: transparent;
+  font-size: 0.91rem;
+}
+
+.content-section--research > blockquote:first-of-type {
+  margin-left: 0;
+}
+
+.content-section--research ul {
+  margin-block: 1rem 1.4rem;
+  padding-left: 0;
+  list-style: none;
+}
+
+.content-section--research li {
+  position: relative;
+  margin: 0;
+  padding: 0.85rem 0 0.9rem 1.2rem;
+  border-bottom: 1px solid rgba(47, 123, 69, 0.13);
+}
+
+.content-section--research li::before {
+  position: absolute;
+  top: 1.35em;
+  left: 0.1rem;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--accent);
+  content: "";
+}
+
+.content-section--research li:last-child {
+  border-bottom: 0;
+}
+
 #main_content p {
   margin-block: 0 1.15rem;
 }
@@ -494,6 +615,27 @@ body {
 
   #main_content h2 {
     margin-top: 3.6rem;
+  }
+
+  .content-section {
+    margin-top: 3.6rem;
+  }
+
+  .content-section h3 {
+    margin-top: 2.2rem;
+    padding-top: 0.8rem;
+  }
+
+  .content-section--lecture li,
+  .content-section--notes li {
+    padding: 0.78rem 0.82rem 0.78rem 1.15rem;
+  }
+
+  .content-section--lecture blockquote,
+  .content-section--notes blockquote,
+  .content-section--research blockquote {
+    margin-left: 0.65rem;
+    padding-left: 0.8rem;
   }
 
   .term-tooltip__content {

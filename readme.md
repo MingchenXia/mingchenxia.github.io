@@ -21,6 +21,8 @@ Email: <xiamingchen2008@gmail.com>
 
 I am interested in machine learning and LLM for the moment.
 
+<section class="content-section content-section--lecture" aria-labelledby="lecture-notes" markdown="1">
+
 ## Lecture notes
 
 > Fere libenter homines id quod volunt credunt.
@@ -45,6 +47,7 @@ I am interested in machine learning and LLM for the moment.
 
 > Lecture notes for my course at USTC in the spring of 2024.
 
+</section>
 
 ## Beamers
 
@@ -78,6 +81,8 @@ I am interested in machine learning and LLM for the moment.
 
 
 
+
+<section class="content-section content-section--research" aria-labelledby="research" markdown="1">
 
 ## Research
 
@@ -161,6 +166,9 @@ I am glad to spend my extra tokens on helping the other mathematicians (French e
 
 > The theory of non-Archimedean psh functions we developed in this paper trivally satisfies Boucksom--Jonsson's envelope conjecture (even on a general unibranch complex space), see my note [Operations on transcendental non-Archimedean metrics](Notes/OTNA.pdf).
 
+</section>
+
+<section class="content-section content-section--notes" aria-labelledby="some-notes" markdown="1">
 
 ## Some notes
 
@@ -208,6 +216,7 @@ I am glad to spend my extra tokens on helping the other mathematicians (French e
 
 - [Analytic singularities are not birationally invariant](Notes/AS_Bir.pdf)
 
+</section>
 
 ## My favourite links
 
