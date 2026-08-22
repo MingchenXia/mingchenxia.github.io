@@ -58,32 +58,24 @@
 
         scratchSecrets.forEach(function (secret) {
           secret.setAttribute('aria-expanded', 'false');
-          secret.setAttribute('aria-label', 'Tap to reveal hidden note');
-
-          secret.addEventListener('click', function (event) {
-            if (!touchQuery.matches && !mobileQuery.matches) {
-              return;
-            }
-
-            event.preventDefault();
-            var revealed = secret.classList.toggle('is-revealed');
-            secret.setAttribute('aria-expanded', String(revealed));
-          });
-
+          secret.setAttribute('aria-label', 'Select to reveal hidden note');
         });
 
         document.addEventListener('selectionchange', function () {
           var selection = window.getSelection ? window.getSelection() : null;
           if (!selection || !selection.rangeCount || selection.isCollapsed) {
+            scratchSecrets.forEach(function (secret) {
+              secret.classList.remove('is-revealed');
+              secret.setAttribute('aria-expanded', 'false');
+            });
             return;
           }
 
           var range = selection.getRangeAt(0);
           scratchSecrets.forEach(function (secret) {
-            if (range.intersectsNode && range.intersectsNode(secret)) {
-              secret.classList.add('is-revealed');
-              secret.setAttribute('aria-expanded', 'true');
-            }
+            var selected = range.intersectsNode && range.intersectsNode(secret);
+            secret.classList.toggle('is-revealed', selected);
+            secret.setAttribute('aria-expanded', String(selected));
           });
         });
 
