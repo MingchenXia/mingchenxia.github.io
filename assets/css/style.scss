@@ -380,7 +380,15 @@ body {
 #main_content .content-section--lecture ul > li::before,
 #main_content .content-section--notes ul > li::before,
 #main_content .content-section--research ul > li::before {
-  display: none;
+  position: absolute;
+  top: 1.2em;
+  left: 0.62rem;
+  display: block;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: var(--accent);
+  content: "";
 }
 
 #main_content .content-section--lecture ul > li,
@@ -391,11 +399,11 @@ body {
 
 #main_content .content-section--lecture li,
 #main_content .content-section--notes li {
-  padding-left: 1rem;
+  padding-left: 1.25rem;
 }
 
 #main_content .content-section--research li {
-  padding-left: 0;
+  padding-left: 1.2rem;
 }
 
 #main_content blockquote {
