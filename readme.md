@@ -47,6 +47,12 @@ I am interested in machine learning and LLM for the moment.
 
 > Lecture notes for my course at USTC in the spring of 2024.
 
+### Complex geometry
+
+- [Lectures on complex geometry](Lectures/CG.pdf)
+
+> Lecture notes for my course at USTC in the fall of 2026.
+
 </section>
 
 ## Beamers
