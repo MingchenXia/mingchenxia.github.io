@@ -49,7 +49,7 @@ I am interested in machine learning and LLM for the moment.
 
 ### Complex geometry
 
-- [Lectures on complex geometry](Lectures/CG.pdf)
+- [Lectures on complex geometry](Lectures/CG.pdf) [Sample papers](Lectures/CG_papers.pdf) for the final presentation.
 
 > Lecture notes for my course at USTC in the fall of 2026.
 
