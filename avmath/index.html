@@ -9,6 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./styles.css">
+    <script src="./members.js" defer></script>
   </head>
   <body>
     <header class="site-header">
@@ -48,9 +49,9 @@
         <div class="content-column">
           <h2>List of members</h2>
           <div class="body-copy">
-            <ol class="member-list" aria-label="Association for Vibe Mathematics members">
+            <ol class="member-list" id="member-list" aria-label="Association for Vibe Mathematics members" hidden>
             </ol>
-            <p class="empty-members">The public member list will appear here after membership submissions are reviewed.</p>
+            <p class="empty-members" id="members-status" role="status">Loading the public member list…</p>
           </div>
 
           <a class="member-cta lower" href="https://docs.google.com/forms/d/e/1FAIpQLSf3ADZBFXUinXI6u3cVw3mxDbvL1XkZxMrtOxiJNq2jAkC3JA/viewform" target="_blank" rel="noopener">Become a member</a>
