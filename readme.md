@@ -30,13 +30,13 @@ Two small tools I built with AI assistance:
 <div class="vibe-tool-grid">
   <article class="vibe-tool-card">
     <h3><a href="https://github.com/MingchenXia/arXivpecker">arXivpecker</a></h3>
-    <p>A local-first AI-assisted mathematics paper reader with interactive structure, editable TeX, proof expansion, citation lookup, notes, version comparison, and theorem-level dependency maps.</p>
+    <p>An AI-assisted mathematics paper reader with interactive structure, editable TeX, proof expansion, citation lookup, notes, version comparison, and theorem-level dependency maps.</p>
     <img class="vibe-tool-screenshot" src="Pictures/arXivpecker-launch.jpg" alt="arXivpecker launch interface showing a sample mathematics paper">
   </article>
 
   <article class="vibe-tool-card">
     <h3><a href="https://github.com/MingchenXia/FindReferee">FindReferee</a></h3>
-    <p>A local open-source assistant for comparing documents and investigating who may have written a referee report, with uncertainty-aware probabilities and an expandable evidence report.</p>
+    <p>An assistant for investigating who may have written a referee report, with uncertainty-aware probabilities and an evidence report.</p>
     <img class="vibe-tool-screenshot" src="Pictures/FindReferee-launch.png" alt="FindReferee launch interface for referee-report analysis">
   </article>
 </div>
