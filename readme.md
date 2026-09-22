@@ -19,7 +19,7 @@ Email: <xiamingchen2008@gmail.com>
 
 [Where I stand on AI and mathematics](ai-and-mathematics.html)
 
-I am interested in vibe coding and Lean4 for the moment.
+I am interested in vibe coding and Lean4 for the moment. I am working on formalising papers in complex geometry and pluripotential theory with Lean4.
 
 <section class="content-section content-section--vibe-coding" aria-labelledby="vibe-coding" markdown="1">
 
