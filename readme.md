@@ -37,9 +37,9 @@ I am interested in <a href="https://github.com/MingchenXia?tab=repositories">vib
 
 > Lecture notes for my course at Chinese academy of science in the summer of 2023.
 
-- [Singularities in global pluripotential theory](Lectures/SGPT_final.pdf) ([source code](https://github.com/MingchenXia/SGPT)). This is (almost) the final version. I am formalizing the contents of the entire book. Nonsense comments in Frenglish are not welcome.
+- [Singularities in global pluripotential theory](Lectures/SGPT_final.pdf) ([source code](https://github.com/MingchenXia/SGPT)). This is (almost) the final version. I am formalizing the contents of the entire book.
 
-> Lecture notes for my course at Zhejiang university in the spring of 2024. Please let me know if you find any typos/mistakes or find any of the arguments unclear. 
+> Lecture notes for my course at Zhejiang university in the spring of 2024.
 
 ### Non-Archimedean geometry
 
@@ -95,8 +95,6 @@ I am interested in <a href="https://github.com/MingchenXia?tab=repositories">vib
 >Errare humanum est.
 
 All my preprints can be found on arXiv. See [my Google Scholar page](https://scholar.google.se/citations?user=1GbYhEMAAAAJ) as well. All my mathematical works starting from July 2026 rely on AI.
-
-I am glad to spend my extra tokens on helping the other mathematicians (French excluded). Feel free to contact me!
 
 <nav class="research-tags" aria-label="Research sections">
   <a href="#vibe-math">Vibe math</a>
