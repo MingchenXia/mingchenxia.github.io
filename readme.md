@@ -2,20 +2,24 @@
 
 ## About Me
 
-I am a <span class="term-tooltip" tabindex="0" role="term" aria-describedby="vibe-mathematician-definition">vibe mathematician<span class="term-tooltip__content" id="vibe-mathematician-definition" role="tooltip"><strong>vibe mathematician</strong>A mathematician who uses AI instead of the human brain to do mathematics.</span></span><a class="section-jump" href="#vibe-math" aria-label="Jump to Vibe math" title="Jump to Vibe math">↓</a> at the <a href="https://en.igp.ustc.edu.cn/main.htm">Institute of Geometry and Physics</a> in <a href="https://en.wikipedia.org/wiki/Hefei">Hefei</a>. <span class="scratch-secret" tabindex="0" role="note" aria-label="Hidden note">主业是乳法。</span>
+I am a <span class="term-tooltip" tabindex="0" role="term" aria-describedby="vibe-mathematician-definition">vibe mathematician<span class="term-tooltip__content" id="vibe-mathematician-definition" role="tooltip"><strong>vibe mathematician</strong>A mathematician who uses AI instead of the human brain to do mathematics.</span></span><a class="section-jump" href="#vibe-math" aria-label="Jump to Vibe math" title="Jump to Vibe math">↓</a> at the <a href="https://en.igp.ustc.edu.cn/main.htm">Institute of Geometry and Physics</a> in <a href="https://en.wikipedia.org/wiki/Hefei">Hefei</a>. <!-- <span class="scratch-secret" tabindex="0" role="note" aria-label="Hidden note">主业是乳法。</span> -->
 
 
 - In 2022, I obtained my PhD degree at <a href="https://www.chalmers.se/sv/Sidor/default.aspx">Chalmers Tekniska Högskola</a> in <span class="term-tooltip term-tooltip--sweden" tabindex="0" role="term" aria-describedby="sweden-definition">Sweden<span class="term-tooltip__content" id="sweden-definition" role="tooltip"><strong>Sweden</strong>A Scandinavian country. It is not Switzerland.</span></span> under the supervision of Robert Berman.
+<!--
 - Afterwards, I was a <a href="https://kaw.wallenberg.org/en/mingchen-xia">Wallenberg postdoc</a> from 2022 to 2025. In 2023 and 2024 I applied for the <span class="term-tooltip term-tooltip--cnrs" tabindex="0" role="term" aria-describedby="cnrs-definition"><a href="https://www.cnrs.fr/fr/actualite/le-cnrs-lance-avec-mistral-ai-un-outil-dia-generative-securise-mis-disposition-de-ses">CNRS</a><span class="term-tooltip__content" id="cnrs-definition" role="tooltip"><strong>CNRS</strong>An outdated French research institution that prohibits the use of any AI that is actually useful.</span></span> position twice without getting a single interview.
+-->
 
 Email: <xiamingchen2008@gmail.com> 
 
+<!--
 <div class="about-note">
   <blockquote>
     <p>Good to know before contacting me:<br>1. À quelques exceptions près, je refuse de <span class="term-tooltip" tabindex="0" role="term" aria-describedby="contribuer-definition">contribuer<span class="term-tooltip__content" id="contribuer-definition" role="tooltip"><strong>contribuer</strong>En tant que    rapporteur et auteur</span></span> aux revues françaises.<br>2. My given name is Mingchen instead of Xia, Xiam, Mincheng, Minchen or Mingcheng. And I am male.<br>3. Preferred languages: Chinese > English or French. Ich versuche, mein Deutsch zu verbessern. Du kannst mir gern auf Hochdeutsch schreiben, wenn es dich nicht stört, Antworten auf holprigem Deutsch zu bekommen.</p>
   </blockquote>
   <img src="Pictures/Fier.jpg" alt="France">
 </div>
+-->
 
 [Where I stand on AI and mathematics](ai-and-mathematics.html)
 
