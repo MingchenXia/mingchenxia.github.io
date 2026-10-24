@@ -45,7 +45,9 @@ I am interested in <a href="https://github.com/MingchenXia?tab=repositories">vib
 
 - [Singularities in global pluripotential theory](Lectures/SGPT_final.pdf) ([source code](https://github.com/MingchenXia/SGPT)). This is (almost) the final version. I am formalizing the contents of the entire book.
 
-> Lecture notes for my course at Zhejiang university in the spring of 2024. To one French mathematician: There is more than one way of writing mathematics. If you don't like my book, you can simply stop reading it instead of keep making nonsense comments.
+> Lecture notes for my course at Zhejiang university in the spring of 2024.
+>
+> To one French mathematician: There is more than one way of writing mathematics. If you don't like my book, you can simply stop reading it instead of keep making nonsense comments.
 
 ### Non-Archimedean geometry
 
