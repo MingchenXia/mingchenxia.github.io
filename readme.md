@@ -47,7 +47,7 @@ I am interested in <a href="https://github.com/MingchenXia?tab=repositories">vib
 
 > Lecture notes for my course at Zhejiang university in the spring of 2024.
 >
-> To one French mathematician: There is more than one way of writing mathematics. If you don't like my book, you can simply stop reading it instead of keep making nonsense comments.
+> To one French mathematician: There is more than one way of writing mathematics. If you don't like my book, you can simply stop reading it instead of keeping making nonsense comments.
 
 ### Non-Archimedean geometry
 
