@@ -12,6 +12,8 @@ I am a <span class="term-tooltip" tabindex="0" role="term" aria-describedby="vib
 
 Email: <xiamingchen2008@gmail.com> 
 
+> I'm physically in China now, so I do not always have access to gmail, sorry for possibly delayed replies.
+
 {% comment %}
 <div class="about-note">
   <blockquote>
