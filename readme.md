@@ -45,7 +45,7 @@ I am interested in <a href="https://github.com/MingchenXia?tab=repositories">vib
 
 > Lecture notes for my course at Chinese academy of science in the summer of 2023.
 
-- [Singularities in global pluripotential theory](Lectures/SGPT_final.pdf) ([source code](https://github.com/MingchenXia/SGPT)). This is (almost) the final version. I am formalizing the contents of the entire book.
+- [Singularities in global pluripotential theory](Lectures/SGPT_final.pdf) ([source code](https://github.com/MingchenXia/SGPT)). Accepted by Springer's LNM series in May 2026.
 
 > Lecture notes for my course at Zhejiang university in the spring of 2024.
 >
