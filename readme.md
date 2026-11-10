@@ -95,6 +95,8 @@ I am interested in <a href="https://github.com/MingchenXia?tab=repositories">vib
 
 - [Zero-mass conjecture --- AI-assisted counterexample](Beamers/ZMC.pdf) Harbin, 08/14/2026.
 
+- [A solution to the Collins--Tosatti conjecture](Beamers/CT.pdf) Shanghai, 11/08/2026.
+
 
 
 
